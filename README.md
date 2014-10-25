@@ -139,7 +139,7 @@ Crash Course [World History](https://www.youtube.com/playlist?list=PLBDA2E52FB1E
 [Ishmael](http://www.amazon.com/Ishmael-Adventure-Spirit-Daniel-Quinn/dp/0553375407/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1394085661&amp;sr=1-1&amp;keywords=ishmael)[ ](http://www.amazon.com/Ishmael-Adventure-Spirit-Daniel-Quinn/dp/0553375407/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1394085661&amp;sr=1-1&amp;keywords=ishmael)- Forever changed the way I see man’s relation to the Earth. Life changing.  
 [Living, Loving, and Learning](http://www.amazon.com/Living-Loving-Learning-Leo-Buscaglia/dp/0449901815/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1394085676&amp;sr=1-1&amp;keywords=living+loving+and+learning) - Leo is one of my major influences.  
 [Stumbling on Happiness](http://www.amazon.com/Stumbling-Happiness-Daniel-Gilbert/dp/1400077427/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1394085691&amp;sr=1-1&amp;keywords=stumbling+on+happiness) - We’re not so good at predicting what makes us happy. This book was funny and insightful. I think about it all the time.  
-Anything by Tom Robbins.
+Anything by [Tom Robbins](http://www.amazon.com/Tom-Robbins/e/B000APVAHM).
 
 ###RSS###
 
