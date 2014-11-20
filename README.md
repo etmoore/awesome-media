@@ -143,7 +143,7 @@ Anything by [Tom Robbins](http://www.amazon.com/Tom-Robbins/e/B000APVAHM).
 
 ###RSS###
 
-[Brainpickings ](https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;cad=rja&amp;uact=8&amp;sqi=2&amp;ved=0CCgQFjAA&amp;url=http%3A%2F%2Fwww.brainpickings.org%2F&amp;ei=lQ8YU4OnOYWzqgGD74HQBA&amp;usg=AFQjCNFKaHFb1x6h1pzdkB195jHgF1zU9A&amp;sig2=4kXicFf8XrYx2mvKMv_jTg&amp;bvm=bv.62577051,d.aWM)- Brain super-food. Many inspiring posts.
+[Brainpickings ](https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;cad=rja&amp;uact=8&amp;sqi=2&amp;ved=0CCgQFjAA&amp;url=http%3A%2F%2Fwww.brainpickings.org%2F&amp;ei=lQ8YU4OnOYWzqgGD74HQBA&amp;usg=AFQjCNFKaHFb1x6h1pzdkB195jHgF1zU9A&amp;sig2=4kXicFf8XrYx2mvKMv_jTg&amp;bvm=bv.62577051,d.aWM)- Brain super-food. Many inspiring posts.  
 [Kottke ](https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;cad=rja&amp;uact=8&amp;ved=0CCoQFjAA&amp;url=http%3A%2F%2Fkottke.org%2F&amp;ei=gg8YU-_IC87MqAHEnIGQDQ&amp;usg=AFQjCNHcT_rFwvOaKX8PmPYkF1WEgkEk1A&amp;sig2=LvXYahpA-3vtojyUAofrmw&amp;bvm=bv.62577051,d.aWM)- Jason Kottke collects cool things on the internet and posts them to his blog.  
 [Longform ](https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;cad=rja&amp;uact=8&amp;ved=0CCgQFjAA&amp;url=http%3A%2F%2Flongform.org%2F&amp;ei=oA8YU_KbBMfJqQHbs4C4Bw&amp;usg=AFQjCNF26gVidsxKIcgIbNm0yJ4qb5-Nlg&amp;sig2=4316lRTElI14YzIgRc9rTA&amp;bvm=bv.62577051,d.aWM)- Great long-form journalism. Use with Pocket to become a power-reader.  
 [xkcd](https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;cad=rja&amp;uact=8&amp;sqi=2&amp;ved=0CCgQFjAA&amp;url=http%3A%2F%2Fxkcd.com%2F&amp;ei=qA8YU8bPLpKxqQGGw4D4Dg&amp;usg=AFQjCNFDXrX3H2MQFcuC7XN2wLJDnI9lBw&amp;sig2=h5BNsyXyFrUI7bFwNhBpGw&amp;bvm=bv.62577051,d.aWM)[ ](https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;cad=rja&amp;uact=8&amp;sqi=2&amp;ved=0CCgQFjAA&amp;url=http%3A%2F%2Fxkcd.com%2F&amp;ei=qA8YU8bPLpKxqQGGw4D4Dg&amp;usg=AFQjCNFDXrX3H2MQFcuC7XN2wLJDnI9lBw&amp;sig2=h5BNsyXyFrUI7bFwNhBpGw&amp;bvm=bv.62577051,d.aWM)- science and math comics.
@@ -151,10 +151,10 @@ Anything by [Tom Robbins](http://www.amazon.com/Tom-Robbins/e/B000APVAHM).
 <hr>
 #Online Learning##
 
-[Codecademy](http://www.codecademy.com/learn) - beginner tutorials for web technologies.
+[Codecademy](http://www.codecademy.com/learn) - beginner tutorials for web technologies.  
 [Coursera](https://www.coursera.org/) - Hundreds of free college classes from the world’s best universities.  
 [Duolingo](http://www.duolingo.com/) - Learn languages for free; [More effective than college language class or Rosetta stone](https://www.duolingo.com/comment/138340).  
-[edX](https://www.edx.org/) - MOOCs by Harvard, MIT, and other top universities.
+[edX](https://www.edx.org/) - MOOCs by Harvard, MIT, and other top universities.  
 [Khan Academy](https://www.khanacademy.org/science/core-finance) - an education Mecca.  
 [Udacity](https://www.udacity.com/) - MOOCs designed in collaboration with top tech companies.  
 [Vocabulary.com](http://www.vocabulary.com/) - Fun way to expand your vocabulary. I find myself using/seeing words from here all the time.
