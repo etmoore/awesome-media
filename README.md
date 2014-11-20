@@ -93,7 +93,7 @@ I’ve provided links for context only. If something catches your eye, subscribe
 
 ###Science###
 
-[ASAP Science](http://www.youtube.com/user/AsapSCIENCE%20/t%20_blank) - Whort animated science talks.  
+[ASAP Science](http://www.youtube.com/user/AsapSCIENCE%20/t%20_blank) - Short, animated science talks.  
 Crash Course [Biology](https://www.youtube.com/playlist?list=PL3EED4C1D684D3ADF), [Chemistry](https://www.youtube.com/playlist?list=PL8dPuuaLjXtPHzzYuWy6fYEaX9mQQ8oGr), [Psychology](https://www.youtube.com/playlist?list=PL8dPuuaLjXtOPRKzVLY0jJY-uHOH9KVU6) - Science edutainment.
 [Earth Unplugged](http://www.youtube.com/earthunplugged%20/t%20_blank) - BBC show about earth science  
 [It’s Okay to be Smart](https://www.youtube.com/user/itsokaytobesmart/featured)- PBS show featuring PhD biologist explaining concepts in science.  
