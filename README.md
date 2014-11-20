@@ -73,7 +73,7 @@ I’ve provided links for context only. If something catches your eye, subscribe
 
 [APM: A Prairie Home Companion](http://prairiehome.publicradio.org/%20/t%20_blank) - Classic Garrison Keillor; NPR comedy, not for everyone, but I love it.  
 [Serial](http://serialpodcast.org/) - from the creators of This American Life, a new podcast that tells an epic true story, one episode at a time.  
-[SNAP Judgment](http://snapjudgment.org/) - Quickly becoming one of the hottest podcasts. True stories told to a beat. Very entertaining.
+[SNAP Judgment](http://snapjudgment.org/) - Quickly becoming one of the hottest podcasts. True stories told to a beat. Very entertaining.  
 [The Moth](http://themoth.org/%20/t%20_blank) - True stories told live, on stage, without notes. Great for expanding your perspective and putting yourself in others’ shoes.  
 [This American Life](http://www.thisamericanlife.org/%20/t%20_blank) - The long-reigning #1 podcast in the nation (and for good reason) - True stories and short fiction about life in America.  
 
