@@ -44,7 +44,7 @@ I’ve provided links for context only. If something catches your eye, subscribe
 [NPR: Hearing Voices](http://hearingvoices.com/%20/t%20_blank) - Soundscapes centered around particular topics.  
 [NPR: TED Radio Hour](http://www.npr.org/programs/ted-radio-hour/%20/t%20_blank) - TED talks and interviews with the speakers.  
 [On The Media](http://www.onthemedia.org/) - An inside look at how the media operates.  
-[The Tim Ferris Show](http://fourhourworkweek.com/podcast/) - Author and speaker Tim Ferris asks, “What makes a great life?"
+[The Tim Ferris Show](http://fourhourworkweek.com/podcast/) - Author and speaker Tim Ferris asks, “What makes a great life?"  
 [To the Best of Our Knowledge](http://www.ttbook.org/) - Spend two hours diving deep into the ideas that fuel our world.  
 
 ###Religion, Spirituality###
