@@ -19,7 +19,7 @@ I’ve provided links for context only. If something catches your eye, subscribe
 [Pragmatic](http://techdistortion.com/podcasts/pragmatic) - "weekly discussion show contemplating the practical application of technology."  
 [Ruby Rogues](http://rubyrogues.com/) - Interviews and discussions about Ruby.  
 [The Big Web Show](http://5by5.tv/bigwebshow) - Discussions about the web, design, art, and more.  
-[This Developer’s Life](http://thisdeveloperslife.com/) - Stories about developers and their lives.
+[This Developer’s Life](http://thisdeveloperslife.com/) - Stories about developers and their lives.  
 [Triangulation](https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=2&amp;cad=rja&amp;uact=8&amp;ved=0CDMQFjAB&amp;url=http%3A%2F%2Ftwit.tv%2Ftri&amp;ei=Ew0YU7mMOMT1qwHh5oHIBw&amp;usg=AFQjCNENurn0KzFCVuO404lF-RwV26MWkg&amp;sig2=yOXK7bnWJBVduaiYmWeokQ&amp;bvm=bv.62577051,d.aWM)- TWiT’s Leo Laporte interviews technology visionaries about big ideas and historical events in tech.  
 
 ###Entrepreneurship###
@@ -55,7 +55,7 @@ I’ve provided links for context only. If something catches your eye, subscribe
 
 ###Economics/Finance###
 
-[Econtalk](http://www.econtalk.org/) - Mixed bag… some are _super_ fascinating, others aren’t. Russ Roberts, a professor at Stanford, interviews people about economics topics.
+[Econtalk](http://www.econtalk.org/) - Mixed bag… some are _super_ fascinating, others aren’t. Russ Roberts, a professor at Stanford, interviews people about economics topics.  
 [Freakonomics Radio](http://www.freakonomics.com/tag/freakonomics-podcast/%20/t%20_blank) - Economics from a unique perspective. Economics like you’ve never heard it before. Very interesting stuff!  
 [NPR: Planet Money](http://www.npr.org/blogs/money/) - Economics and Finance explained simply using relevant, real-world examples. This is one of my favorites.  
 
