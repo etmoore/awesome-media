@@ -94,7 +94,7 @@ I’ve provided links for context only. If something catches your eye, subscribe
 ###Science###
 
 [ASAP Science](http://www.youtube.com/user/AsapSCIENCE%20/t%20_blank) - Short, animated science talks.  
-Crash Course [Biology](https://www.youtube.com/playlist?list=PL3EED4C1D684D3ADF), [Chemistry](https://www.youtube.com/playlist?list=PL8dPuuaLjXtPHzzYuWy6fYEaX9mQQ8oGr), [Psychology](https://www.youtube.com/playlist?list=PL8dPuuaLjXtOPRKzVLY0jJY-uHOH9KVU6) - Science edutainment.
+Crash Course [Biology](https://www.youtube.com/playlist?list=PL3EED4C1D684D3ADF), [Chemistry](https://www.youtube.com/playlist?list=PL8dPuuaLjXtPHzzYuWy6fYEaX9mQQ8oGr), [Psychology](https://www.youtube.com/playlist?list=PL8dPuuaLjXtOPRKzVLY0jJY-uHOH9KVU6) - Science edutainment.  
 [Earth Unplugged](http://www.youtube.com/earthunplugged%20/t%20_blank) - BBC show about earth science  
 [It’s Okay to be Smart](https://www.youtube.com/user/itsokaytobesmart/featured)- PBS show featuring PhD biologist explaining concepts in science.  
 [Minute Earth](http://www.youtube.com/channel/UCeiYXex_fwgYDonaTcSIk6w) - Ecology and earth science in ~60 seconds.  
@@ -107,7 +107,7 @@ Crash Course [Biology](https://www.youtube.com/playlist?list=PL3EED4C1D684D3ADF)
 
 ###Math###
 
-[Art of the Problem](http://www.youtube.com/channel/UCotwjyJnb-4KW7bmsOoLfkg%20/t%20_blank) - Who knew information science could be so cool? Also featured on Khan Academy (in the “Applied Math” videos)
+[Art of the Problem](http://www.youtube.com/channel/UCotwjyJnb-4KW7bmsOoLfkg%20/t%20_blank) - Who knew information science could be so cool? Also featured on Khan Academy (in the “Applied Math” videos)  
 [Numberphile](http://www.youtube.com/user/numberphile%20/t%20_blank) - Fascinating ~10-15 minute videos about interesting concepts in math.  
 [Vihart](http://www.youtube.com/user/Vihart%20/t%20_blank) - I wish she had been my math teacher. Mad genius. Truly brilliant stuff.  
 
@@ -126,7 +126,7 @@ Crash Course [World History](https://www.youtube.com/playlist?list=PLBDA2E52FB1E
 [CGP Grey](http://www.youtube.com/user/cgpgrey?feature=results_main%20/t%20_blank) - Mr. Grey takes obscure topics and makes them fascinating  
 [Crash Course Literature](https://www.youtube.com/playlist?list=PL8dPuuaLjXtOeEc9ME62zTfqc0h6Pe8vb) - John Green (author of _The Fault in Our Stars_) explains what’s great about great books.  
 [SoulPancake](http://www.youtube.com/user/soulpancake?feature=watch%20/t%20_blank) - 100% love and positivity guaranteed to make you feel better about the human race. The [My Last Days](https://www.youtube.com/playlist?list=PLzvRx_johoA8ITQgxBpeJTaDUhhIB7bfX) series is beautiful.  
-[PBS Idea Channel](https://www.youtube.com/channel/UC3LqW4ijMoENQ2Wv17ZrFJA) - "a PBS show that examines the connections between pop culture, technology and art.”
+[PBS Idea Channel](https://www.youtube.com/channel/UC3LqW4ijMoENQ2Wv17ZrFJA) - "a PBS show that examines the connections between pop culture, technology and art.”  
 [zefrank1](http://www.youtube.com/channel/UCVpankR4HtoAVtYnFDUieYA) - A YouTube original.  
 
 <hr>
