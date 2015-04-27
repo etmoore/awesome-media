@@ -2,7 +2,7 @@
 
 ###Recommended Podcast Apps:###
 
-- Android: [Podcast Addict](https://play.google.com/store/apps/details?id=com.bambuna.podcastaddict&hl=en) or [PocketCasts](https://play.google.com/store/apps/details?id=au.com.shiftyjelly.pocketcasts)
+- Android: [Podcast Addict](https://play.google.com/store/apps/details?id=com.bambuna.podcastaddict&hl=en) or [Pocket Casts](https://play.google.com/store/apps/details?id=au.com.shiftyjelly.pocketcasts)
 - iOS: Don’t have one, but I trust [CGP Grey’s recommendations](http://www.cgpgrey.com/blog/recommended-podcast-apps)
 
 I’ve provided links for context only. If something catches your eye, subscribe to it on your mobile app so you can listen to it when you’re driving, eating, walking, working out, or doing chores.
