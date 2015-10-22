@@ -143,13 +143,6 @@ Crash Course [World History](https://www.youtube.com/playlist?list=PLBDA2E52FB1E
 [Stumbling on Happiness](http://www.amazon.com/Stumbling-Happiness-Daniel-Gilbert/dp/1400077427/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1394085691&amp;sr=1-1&amp;keywords=stumbling+on+happiness) - We’re not so good at predicting what makes us happy. This book was funny and insightful. I think about it all the time.  
 Anything by [Tom Robbins](http://www.amazon.com/Tom-Robbins/e/B000APVAHM).
 
-###RSS###
-
-[Brainpickings ](https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;cad=rja&amp;uact=8&amp;sqi=2&amp;ved=0CCgQFjAA&amp;url=http%3A%2F%2Fwww.brainpickings.org%2F&amp;ei=lQ8YU4OnOYWzqgGD74HQBA&amp;usg=AFQjCNFKaHFb1x6h1pzdkB195jHgF1zU9A&amp;sig2=4kXicFf8XrYx2mvKMv_jTg&amp;bvm=bv.62577051,d.aWM)- Brain super-food. Many inspiring posts.  
-[Kottke ](https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;cad=rja&amp;uact=8&amp;ved=0CCoQFjAA&amp;url=http%3A%2F%2Fkottke.org%2F&amp;ei=gg8YU-_IC87MqAHEnIGQDQ&amp;usg=AFQjCNHcT_rFwvOaKX8PmPYkF1WEgkEk1A&amp;sig2=LvXYahpA-3vtojyUAofrmw&amp;bvm=bv.62577051,d.aWM)- Jason Kottke collects cool things on the internet and posts them to his blog.  
-[Longform ](https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;cad=rja&amp;uact=8&amp;ved=0CCgQFjAA&amp;url=http%3A%2F%2Flongform.org%2F&amp;ei=oA8YU_KbBMfJqQHbs4C4Bw&amp;usg=AFQjCNF26gVidsxKIcgIbNm0yJ4qb5-Nlg&amp;sig2=4316lRTElI14YzIgRc9rTA&amp;bvm=bv.62577051,d.aWM)- Great long-form journalism. Use with Pocket to become a power-reader.  
-[xkcd](https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;cad=rja&amp;uact=8&amp;sqi=2&amp;ved=0CCgQFjAA&amp;url=http%3A%2F%2Fxkcd.com%2F&amp;ei=qA8YU8bPLpKxqQGGw4D4Dg&amp;usg=AFQjCNFDXrX3H2MQFcuC7XN2wLJDnI9lBw&amp;sig2=h5BNsyXyFrUI7bFwNhBpGw&amp;bvm=bv.62577051,d.aWM)[ ](https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;cad=rja&amp;uact=8&amp;sqi=2&amp;ved=0CCgQFjAA&amp;url=http%3A%2F%2Fxkcd.com%2F&amp;ei=qA8YU8bPLpKxqQGGw4D4Dg&amp;usg=AFQjCNFDXrX3H2MQFcuC7XN2wLJDnI9lBw&amp;sig2=h5BNsyXyFrUI7bFwNhBpGw&amp;bvm=bv.62577051,d.aWM)- science and math comics.
-
 <hr>
 #Online Learning##
 
