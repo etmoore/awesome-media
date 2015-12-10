@@ -16,7 +16,7 @@ I’ve provided links for context only. If something catches your eye, subscribe
 [Giant Robots Smashing Into Other Giant Robots](http://giantrobots.fm/) - ThoughtBot’s podcast. Interviews with programming movers and shakers.  
 [Javascript Jabber](http://devchat.tv/js-jabber/) - Interviews and discussions about Javascript.  
 [Internet History Podcast](http://www.internethistorypodcast.com/) - The history of the internet, starting from Mosaic.  
-[New Tech City](http://www.wnyc.org/shows/newtechcity/) - Examines how technology is changing our society and culture.  
+[Note to Self](http://www.wnyc.org/shows/notetoself/) - Examines how technology is changing our society and culture.  
 [Pragmatic](http://techdistortion.com/podcasts/pragmatic) - "weekly discussion show contemplating the practical application of technology."  
 [Ruby Rogues](http://rubyrogues.com/) - Interviews and discussions about Ruby.  
 [The Big Web Show](http://5by5.tv/bigwebshow) - Discussions about the web, design, art, and more.  
