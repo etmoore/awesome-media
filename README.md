@@ -1,13 +1,13 @@
-#Podcasts#
+# Podcasts
 
-###Recommended Podcast Apps:###
+## Recommended Podcast Apps:
 
 - Android: [Podcast Addict](https://play.google.com/store/apps/details?id=com.bambuna.podcastaddict&hl=en) or [Pocket Casts](https://play.google.com/store/apps/details?id=au.com.shiftyjelly.pocketcasts)
 - iOS: Don’t have one, but I trust [CGP Grey’s recommendations](http://www.cgpgrey.com/blog/recommended-podcast-apps)
 
 I’ve provided links for context only. If something catches your eye, subscribe to it on your mobile app so you can listen to it when you’re driving, eating, walking, working out, or doing chores.
 
-###Tech###
+## Tech
 
 [The Changelog](https://changelog.com/podcast) - Interviews and conversations about open source sofware development.  
 [Codenewbie](http://www.codenewbie.org/podcast) - Interviews on what it’s like to learn to code.  
@@ -28,12 +28,12 @@ I’ve provided links for context only. If something catches your eye, subscribe
 [Software Engineering Radio](http://www.se-radio.net/) - interviews with influential folks from the world of software.  
 
 
-###Entrepreneurship###
+## Entrepreneurship
 
 [Dorm Room Tycoon](http://drt.fm/) - Interviews with startup founders and entrepreneurial thought leaders.  
 [StartUp Podcast](http://hearstartup.com/) - Alex Bloomberg, formerly of [Planet Money](http://www.npr.org/blogs/money/), podcasts about what it’s like to start a podcasting startup.  
 
-###History###
+## History
 
 [Backstory with the American History Guys](http://backstoryradio.org/%20/t%20_blank) - History with three professors from VA colleges. They take a modern event/object/phenomena and look at the history of it in the US.  
 [Dan Carlin’s Hardcore History](http://www.dancarlin.com/disp.php/hharchive) - Gripping stories from history. Will leave you drained!  
@@ -42,7 +42,7 @@ I’ve provided links for context only. If something catches your eye, subscribe
 [The History of Rome](http://thehistoryofrome.typepad.com/%20/t%20_blank) - Start from the beginning and listen to this one through. You won’t be disappointed.  
 [The Memory Palace](http://thememorypalace.us/) - No longer produced, but it's worth digging through the archive of this history podcast.
 
-###Society, Culture###
+## Society, Culture
 
 [99% Invisible](http://99percentinvisible.org/%20/t%20_blank) - Design of everyday things. You’ll never look at everyday objects the same again.  
 [Benjamen Walker’s Theory of Everything](http://toe.prx.org/) - Mix of fiction, storytelling, real interviews - gets at deep topics particularly in social media and big data.  
@@ -53,19 +53,19 @@ I’ve provided links for context only. If something catches your eye, subscribe
 [The Tim Ferris Show](http://fourhourworkweek.com/podcast/) - Author and speaker Tim Ferris asks, “What makes a great life?"  
 [To the Best of Our Knowledge](http://www.ttbook.org/) - Spend two hours diving deep into the ideas that fuel our world.  
 
-###Religion, Spirituality###
+## Religion, Spirituality
 
 [Alan Watts Podcast](http://www.alanwattspodcast.com/) - talks by philosopher Alan Watts. Zen.  
 [On Being with Krista Tippett](http://www.onbeing.org/%20/t%20_blank) - Interviews with influential people in the world of religion, spirituality.  
 [Tara Brach](http://www.tarabrach.com/audiodharma.html) - I always feel better after listening to Tara’s talks and guided meditations.
 
-###Economics/Finance###
+## Economics/Finance
 
 [Econtalk](http://www.econtalk.org/) - Mixed bag… some are _super_ fascinating, others aren’t. Russ Roberts, a professor at Stanford, interviews people about economics topics.  
 [Freakonomics Radio](http://www.freakonomics.com/tag/freakonomics-podcast/%20/t%20_blank) - Economics from a unique perspective. Economics like you’ve never heard it before. Very interesting stuff!  
 [NPR: Planet Money](http://www.npr.org/blogs/money/) - Economics and Finance explained simply using relevant, real-world examples. This is one of my favorites.  
 
-###Science###
+## Science
 
 [60 Second Podcasts](http://www.scientificamerican.com/podcast/%20/t%20_blank) (Science, Health, Space, Mind, Tech) - scientific studies/discoveries explained in ~60 seconds.  
 [Brainstuff](http://entertainment.howstuffworks.com/hsw-shows/brain-stuff-podcast.htm%20/t%20_blank) - For when you wonder, “Hmmmm… how does that work?”  
@@ -75,7 +75,7 @@ I’ve provided links for context only. If something catches your eye, subscribe
 [Star Talk](http://www.startalkradio.net/) - Neil deGrasse Tyson (the modern Carl Sagan) hosts this comedy show about astrophysics.  
 [You are Not So Smart](http://youarenotsosmart.com/podcast/) - Aptly described as a “Celebration of Self Delusion”... with cookies!
 
-###Stories###
+## Stories
 
 [APM: A Prairie Home Companion](http://prairiehome.publicradio.org/%20/t%20_blank) - Classic Garrison Keillor; NPR comedy, not for everyone, but I love it.  
 [Serial](http://serialpodcast.org/) - from the creators of This American Life, a new podcast that tells an epic true story, one episode at a time.  
@@ -83,21 +83,21 @@ I’ve provided links for context only. If something catches your eye, subscribe
 [The Moth](http://themoth.org/%20/t%20_blank) - True stories told live, on stage, without notes. Great for expanding your perspective and putting yourself in others’ shoes.  
 [This American Life](http://www.thisamericanlife.org/%20/t%20_blank) - The long-reigning #1 podcast in the nation (and for good reason) - True stories and short fiction about life in America.  
 
-###Humor###
+## Humor
 
 [Judge John Hodgman](http://www.maximumfun.org/shows/judge-john-hodgman%20/t%20_blank) - Hilarious. John Hodgman, former correspondent with the daily show and PC from the PC/Mac commercials, takes on real disputes between friends and couples and dishes out judgement.  
 [Wiretap from CBC Radio](http://www.cbc.ca/wiretap/%20/t%20_blank) - CBC host Jonathan Goldstein writes and produces this comedy show about his life. Funny and deep.
 
-###Education###
+## Education
 
 [EducationNext](http://educationnext.org/multimedia/#podcast) - Interviews with education authors and thought leaders.  
 [NPR: Education](http://www.npr.org/sections/education/) - Education news and commentary from NPR
 
 <hr>
 
-#Youtube#
+# Youtube
 
-###Science###
+## Science
 
 [ASAP Science](http://www.youtube.com/user/AsapSCIENCE%20/t%20_blank) - Short, animated science talks.  
 Crash Course [Biology](https://www.youtube.com/playlist?list=PL3EED4C1D684D3ADF), [Chemistry](https://www.youtube.com/playlist?list=PL8dPuuaLjXtPHzzYuWy6fYEaX9mQQ8oGr), [Psychology](https://www.youtube.com/playlist?list=PL8dPuuaLjXtOPRKzVLY0jJY-uHOH9KVU6) - Science edutainment.  
@@ -111,22 +111,22 @@ Crash Course [Biology](https://www.youtube.com/playlist?list=PL3EED4C1D684D3ADF)
 [Veritasium](http://www.youtube.com/veritasium%20/t%20_blank) - PhD in physics who is trying to reinvent the way we teach science - super interesting  
 [VSauce](http://www.youtube.com/user/vsauce?feature=results_main%20/t%20_blank) - science videos that will blow your mind.  
 
-###Math###
+## Math
 
 [Art of the Problem](http://www.youtube.com/channel/UCotwjyJnb-4KW7bmsOoLfkg%20/t%20_blank) - Who knew information science could be so cool? Also featured on Khan Academy (in the “Applied Math” videos)  
 [Numberphile](http://www.youtube.com/user/numberphile%20/t%20_blank) - Fascinating ~10-15 minute videos about interesting concepts in math.  
 [Vihart](http://www.youtube.com/user/Vihart%20/t%20_blank) - I wish she had been my math teacher. Mad genius. Truly brilliant stuff.  
 
-###Tech###
+## Tech
 
 [Computerphile](https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA)- Like Numberphile (above), but about computers.  
 [Extra Credits](https://www.youtube.com/channel/UCCODtTcd5M1JavPCOr_Uydg) - Popular channel about game design.
 
-###History###
+## History
 
 Crash Course [World History](https://www.youtube.com/playlist?list=PLBDA2E52FB1EF80C9), [American History](https://www.youtube.com/playlist?list=PL8dPuuaLjXtMwmepBjTSG593eG7ObzO7s) - Entertaining history lessons with John Green, history buff and author (_The Fault in Our Stars_)
 
-###Other###
+## Other
 
 [Big Think](http://www.youtube.com/channel/UCvQECJukTDE2i6aCoMnS-Vg) - big ideas explained by big thinkers.  
 [CGP Grey](http://www.youtube.com/user/cgpgrey?feature=results_main%20/t%20_blank) - Mr. Grey takes obscure topics and makes them fascinating  
@@ -137,9 +137,9 @@ Crash Course [World History](https://www.youtube.com/playlist?list=PLBDA2E52FB1E
 
 <hr>
 
-#Reading#
+# Reading
 
-###Books###
+## Books
 
 [A Short History of Nearly Everything](http://www.amazon.com/Short-History-Nearly-Everything/dp/076790818X/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1394085733&amp;sr=1-1&amp;keywords=a+short+history+of+nearly+everything) - Bill Bryson will blow your mind for 544 straight pages.  
 [Ishmael](http://www.amazon.com/Ishmael-Adventure-Spirit-Daniel-Quinn/dp/0553375407/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1394085661&amp;sr=1-1&amp;keywords=ishmael)[ ](http://www.amazon.com/Ishmael-Adventure-Spirit-Daniel-Quinn/dp/0553375407/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1394085661&amp;sr=1-1&amp;keywords=ishmael)- Forever changed the way I see man’s relation to the Earth. Life changing.  
@@ -148,7 +148,7 @@ Crash Course [World History](https://www.youtube.com/playlist?list=PLBDA2E52FB1E
 Anything by [Tom Robbins](http://www.amazon.com/Tom-Robbins/e/B000APVAHM).
 
 <hr>
-#Online Learning##
+# Online Learning
 
 [Codecademy](http://www.codecademy.com/learn) - beginner tutorials for web technologies.  
 [Coursera](https://www.coursera.org/) - Hundreds of free college classes from the world’s best universities.  
