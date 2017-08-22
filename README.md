@@ -85,7 +85,7 @@ I’ve provided links for context only. If something catches your eye, subscribe
 
 ## Humor
 
-[Judge John Hodgman](http://www.maximumfun.org/shows/judge-john-hodgman%20/t%20_blank) - Hilarious. John Hodgman, former correspondent with the daily show and PC from the PC/Mac commercials, takes on real disputes between friends and couples and dishes out judgement.  
+[Judge John Hodgman](http://www.maximumfun.org/shows/judge-john-hodgman%20/t%20_blank) - Hilarious. John Hodgman, former correspondent with the Daily Show and PC from the PC/Mac commercials, takes on real disputes between friends and couples and dishes out judgement.  
 [Wiretap from CBC Radio](http://www.cbc.ca/wiretap/%20/t%20_blank) - CBC host Jonathan Goldstein writes and produces this comedy show about his life. Funny and deep.
 
 ## Education
