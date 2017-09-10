@@ -22,6 +22,7 @@ I’ve provided links for context only. If something catches your eye, subscribe
 [Pragmatic](http://techdistortion.com/podcasts/pragmatic) - "weekly discussion show contemplating the practical application of technology."  
 [Ruby Rogues](http://rubyrogues.com/) - Interviews and discussions about Ruby.  
 [Talking Machines](http://www.thetalkingmachines.com/) - Conversations about machine learning.  
+[The Accidental Engineer](http://theaccidentalengineer.com/) - Interviews with engineers about how they started their careers.
 [The Big Web Show](http://5by5.tv/bigwebshow) - Discussions about the web, design, art, and more.  
 [This Developer’s Life](http://thisdeveloperslife.com/) - Stories about developers and their lives.  
 [Triangulation](https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=2&amp;cad=rja&amp;uact=8&amp;ved=0CDMQFjAB&amp;url=http%3A%2F%2Ftwit.tv%2Ftri&amp;ei=Ew0YU7mMOMT1qwHh5oHIBw&amp;usg=AFQjCNENurn0KzFCVuO404lF-RwV26MWkg&amp;sig2=yOXK7bnWJBVduaiYmWeokQ&amp;bvm=bv.62577051,d.aWM)- TWiT’s Leo Laporte interviews technology visionaries about big ideas and historical events in tech.  
