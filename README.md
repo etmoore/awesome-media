@@ -10,9 +10,9 @@ I’ve provided links for context only. If something catches your eye, subscribe
 ## Tech
 
 [The Changelog](https://changelog.com/podcast) - Interviews and conversations about open source sofware development.  
-[Codenewbie](http://www.codenewbie.org/podcast) - Interviews on what it’s like to learn to code.  
-[Codepen Radio](http://blog.codepen.io/radio/) - The three founders of [Codepen](http://codepen.io) talk about what it’s like to run a startup.  
+[Codenewbie](http://www.codenewbie.org/podcast) - Interviews around what it’s like to learn to code.  
 [Developer Tea](https://developertea.com/) - Short, digestible interviews and talks about becoming a better developer.  
+[Developer On Fire](http://developeronfire.com/) - Top developers talking about how they got into software and what drives them  
 [Exponent](http://exponent.fm/) - conversations about the broader trends of tech in society.  
 [Full Stack Radio](http://www.fullstackradio.com/) - interviews with folks in the world of full stack web development  
 [Giant Robots Smashing Into Other Giant Robots](http://giantrobots.fm/) - ThoughtBot’s podcast. Interviews with programming movers and shakers.  
@@ -25,7 +25,8 @@ I’ve provided links for context only. If something catches your eye, subscribe
 [The Big Web Show](http://5by5.tv/bigwebshow) - Discussions about the web, design, art, and more.  
 [This Developer’s Life](http://thisdeveloperslife.com/) - Stories about developers and their lives.  
 [Triangulation](https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=2&amp;cad=rja&amp;uact=8&amp;ved=0CDMQFjAB&amp;url=http%3A%2F%2Ftwit.tv%2Ftri&amp;ei=Ew0YU7mMOMT1qwHh5oHIBw&amp;usg=AFQjCNENurn0KzFCVuO404lF-RwV26MWkg&amp;sig2=yOXK7bnWJBVduaiYmWeokQ&amp;bvm=bv.62577051,d.aWM)- TWiT’s Leo Laporte interviews technology visionaries about big ideas and historical events in tech.  
-[Software Engineering Radio](http://www.se-radio.net/) - interviews with influential folks from the world of software.  
+[Software Engineering Radio](http://www.se-radio.net/) - Interviews with influential folks from the world of software covering a wide range of topics.  
+[Software Engineering Daily](https://softwareengineeringdaily.com/) - Daily interviews around technical topics   
 
 
 ## Entrepreneurship
@@ -46,12 +47,15 @@ I’ve provided links for context only. If something catches your eye, subscribe
 
 [99% Invisible](http://99percentinvisible.org/%20/t%20_blank) - Design of everyday things. You’ll never look at everyday objects the same again.  
 [Benjamen Walker’s Theory of Everything](http://toe.prx.org/) - Mix of fiction, storytelling, real interviews - gets at deep topics particularly in social media and big data.  
+[Cortex](https://www.relay.fm/cortex) - CGP Grey (Youtube and Podcast star) and Myke Hurley (Podcast mogul) discuss how they work  
+[Crimetown](https://gimletmedia.com/crimetown/) - Providence, Rhode Island was/(is?) a mafia town. Who knew?  
 [Hello Internet](http://www.hellointernet.fm/) - My favorite podcast in the “two guys talking” genre. Two of my favorite YouTube producers, Brady Haran and CGP Grey go at it.  
 [NPR: Hearing Voices](http://hearingvoices.com/%20/t%20_blank) - Soundscapes centered around particular topics.  
 [NPR: TED Radio Hour](http://www.npr.org/programs/ted-radio-hour/%20/t%20_blank) - TED talks and interviews with the speakers.  
 [On The Media](http://www.onthemedia.org/) - An inside look at how the media operates.  
 [The Tim Ferris Show](http://fourhourworkweek.com/podcast/) - Author and speaker Tim Ferris asks, “What makes a great life?"  
 [To the Best of Our Knowledge](http://www.ttbook.org/) - Spend two hours diving deep into the ideas that fuel our world.  
+[Waking Up with Sam Harris]() - Philosopher and Neuroscientist Sam Harris explores big questions around society and the human mind with his guests.
 
 ## Religion, Spirituality
 
